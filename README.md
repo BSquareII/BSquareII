@@ -1,4 +1,9 @@
-## Hi there 👋
+## Sup, welcome to my github profile.
+
+I'm just mainly hosting my bytebeat player website, and not really sure what projects i will make during my time being here.
+
+if you want to contact me. my discord username is oqjfklobffksnddsllxndlslnxncnoql or my unredacted.org username is @johndaviousgarfieldihson.
+(um don't mind why i put those usernames lol)
 
 <!--
 **BSquareII/BSquareII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
